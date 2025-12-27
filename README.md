@@ -2,10 +2,10 @@
                         F O S S   W I N G
 
                 ╔══════════════════════════════════════╗
-                ║      (づ｡◕‿‿◕｡)づ  Welcome Hacker  ║
+                ║      (づ｡◕‿‿◕｡)づ  Welcome Hacker     ║
                 ║             Build Open Source        ║
                 ║             Learn Together           ║
-                ║                 (≧◡≦)               ║
+                ║                 (≧◡≦)                ║
                 ╚══════════════════════════════════════╝
 
 # TechTonic 2.0 – FOSS Wing
