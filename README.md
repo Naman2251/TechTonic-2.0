@@ -1,83 +1,76 @@
-# ⚡ TechTonic 2.0
+                        C Y B E R S E C   W I N G
 
-**TechTonic** is the official **First-Year Training & Practice Repository of OpenCode**.  
-It is designed to onboard beginners into real open-source workflows through guided, wing-specific tasks.
+                ╔═════════════════════════════════════════╗
+                ║      (づ｡◕‿‿◕｡)づ  Welcome Hacker     ║
+                ║          Think Like an Attacker         ║
+                ║          Defend Like a Pro              ║
+                ║                 (≧◡≦)                  ║
+                ╚═════════════════════════════════════════╝
 
----
 
-## 🎯 Objective
+# TechTonic 2.0 – CYBERSEC Wing
 
-TechTonic exists to:
+CYBERSEC Training Grounds, OpenCode
 
-- Build strong development fundamentals in every domain 
-- Teach basic principals, techonology and techniques used in popular domains  
-- Prepare contributors for advanced OpenCode repositories  
+This branch is dedicated to introducing first-year contributors to the fundamentals of cybersecurity, ethical hacking, and defensive security through guided, mentor-verified tasks and hands-on challenges.
 
----
+Only CYBERSEC-related contributions are accepted here.
 
-## 🧩 Who Can Contribute?
+## Why This Wing Exists
 
-- 👶 **First Year Contributors Only**  
-- Beginner-friendly, mentor-guided  
-- Strictly verified through OpenCode  
+- Introduce cybersecurity mindset & attack–defense thinking
+- Train contributors on real-world security concepts
+- Practice secure coding, threat analysis & tooling
+- Learn ethical hacking, OSINT, networking & basics of malware analysis
+- Prepare students for advanced CyberSec & CTF-style projects
 
----
+## Who Can Contribute?
 
-## 🌿 Wing-Wise Branch Structure
+- First-year students only
 
-TechTonic follows a **branch-based wing system**:
+## Branch Rules
 
-| Wing | Branch |
-|-----|------|
-| Web Development | `webdev` |
-| App Development | `appdev` |
-| AI / ML | `aiml` |
-| Design | `design` |
-| CC Wing | `competitive` |
-| Cybersec | `cybersec` |
-| Blockchain | `blockchain` |
-| Game Development | `gamedev` |
-| FOSS | `foss` |
+| Branch | Purpose |
+|------|--------|
+| CYBERSEC | All CYBERSEC related tasks & projects |
 
-Each branch will have:
+All work must happen in CYBERSEC branch.
 
-- 4–5 beginner-friendly issues  
-- Starter project code  
-- Wing-specific instructions  
+❌ PRs to main or unrelated work will be rejected.
 
-> ⚠️ The `main` branch does not contain project code.  
-> All development must happen inside your respective wing branch.
+## Project Layout
 
----
+```
+TechTonic-2.0/
+│
+├── tasks/
+│   ├── task-01/
+│   ├── task-02/
+│   ├── task-03/
+│   └── ...
+│
+└── README.md       <---- You Are Here
+```
 
-## 🛠 How to Contribute
+## Contribution Flow
 
-1️⃣ Go to the **Issues** tab  
-2️⃣ Select the issue you want to solve  
-3️⃣ Carefully read the issue description to check **which wing branch it belongs to**  
-4️⃣ Fork this repository  
-5️⃣ **Do NOT fork only the `main` branch**  
-   – You must also fetch and work on the **specified wing branch**  
-6️⃣ Switch to the required wing branch (`webdev`, `appdev`, `aiml`, etc.)  
-7️⃣ Complete your solution **only inside that branch**  
-8️⃣ Open your Pull Request to the same wing branch  
-9️⃣ Wait for mentor review & merge  
+1. Choose a CYBERSEC issue to solve
+2. Fork the repo
+3. Fetch the cybsersec branch
+4. Switch to cybersec
+5. Work inside tasks/ , instructions will be given within them
+6. Push your changes
+7. Open PR to `cybersec` branch only
+8. Wait for mentor review
 
-> ❌ PRs opened to the `main` branch or created by copying only the `main` branch will be rejected.
+## Need Help?
 
----
+Discuss in the TechTonic 2.0 Discussion Channel:  
+https://discord.com/channels/885149696249708635/1454421075692884070
 
-## 🆘 Need Help?
+### CYBERSEC Mentors
 
-Each wing branch will have its **own README file** which contains:
-
-- Branch-specific guidelines  
-- The **Discord IDs of the respective maintainers/mentors**  
-
-If you are stuck, confused, or need clarification — directly contact the maintainers mentioned in your wing branch README.
-
-> ⚠️ Do not DM random mentors. Always use the Discord IDs mentioned in your branch README.
-
----
-
-> *Learn. Build. Rise.* 🚀
+- anubhavsharma0116_20644
+- percival1210
+- vichanshu
+- hariom081 
